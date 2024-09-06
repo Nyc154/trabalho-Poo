@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Barbearia/Barbearia.iml" filepath="$PROJECT_DIR$/Barbearia/Barbearia.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/trab-poo.iml" filepath="$PROJECT_DIR$/.idea/trab-poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Barbearia.iml" filepath="$PROJECT_DIR$/Barbearia.iml" />
     </modules>
   </component>
 </project>
